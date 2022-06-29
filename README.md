@@ -23,4 +23,5 @@ docker ps
 run the testing suite, do after making changes
 rspec 
 
+Checks code layout, follow clean code conventions
 rubocop
