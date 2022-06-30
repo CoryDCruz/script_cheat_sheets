@@ -36,4 +36,5 @@ rubocop
     return Math.floor(Math.random() * max)
 }`
 
-`var randomColor = Math.floor(Math.random()*16777215).toString(16);
+Random color generator: 
+`var randomColor = Math.floor(Math.random()*16777215).toString(16);`
