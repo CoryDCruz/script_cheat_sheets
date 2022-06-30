@@ -31,6 +31,9 @@ rspec
 Checks code layout, follow clean code conventions
 rubocop
 
-`function getRandomInt (max){
+`function getRandomInt (max)
+{
     return Math.floor(Math.random() * max)
 }`
+
+`var randomColor = Math.floor(Math.random()*16777215).toString(16);
