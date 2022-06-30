@@ -1,12 +1,13 @@
 # script_cheat_sheets
 
-initialize node.js
+## initialize node.js
+
 npm init -y
 
-install express
+## install express
 npm i express 
 
-install nodemon
+## install nodemon
 npm i nodemon -g 
 
 npm i ejs
