@@ -30,3 +30,7 @@ rspec
 
 Checks code layout, follow clean code conventions
 rubocop
+
+`function getRandomInt (max){
+    return Math.floor(Math.random() * max)
+}`
