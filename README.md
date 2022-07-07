@@ -4,14 +4,15 @@
 ```npm init -y```
 
 
-npm i express 
+```npm i express```
 
 ## install nodemon
-npm i nodemon -g 
+```npm i nodemon -g```
 
 
-npm i ejs
-npm i express-ejs-layouts
+```npm i ejs```
+
+```npm i express-ejs-layouts```
 
 
 
@@ -20,9 +21,9 @@ postgres database
 
 
 
-docker-compose up -d postgres
+```docker-compose up -d postgres```
 
-docker ps
+```docker ps```
 
 run the testing suite, do after making changes
 rspec 
@@ -31,10 +32,10 @@ rspec
 Checks code layout, follow clean code conventions
 rubocop
 
-`function getRandomInt (max)
+```function getRandomInt (max)
 {
     return Math.floor(Math.random() * max)
-}`
+}```
 
 Random color generator: 
-`var randomColor = Math.floor(Math.random()*16777215).toString(16);`
+```var randomColor = Math.floor(Math.random()*16777215).toString(16);```
