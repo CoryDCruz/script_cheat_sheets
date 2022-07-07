@@ -9,6 +9,7 @@
 ## install nodemon
 ```npm i nodemon -g```
 
+## install ejs and express ejs layouts
 
 ```npm i ejs```
 
@@ -26,16 +27,7 @@ postgres database
 ```docker ps```
 
 run the testing suite, do after making changes
+
 rspec 
 
 
-Checks code layout, follow clean code conventions
-rubocop
-
-```function getRandomInt (max)
-{
-    return Math.floor(Math.random() * max)
-}```
-
-Random color generator: 
-```var randomColor = Math.floor(Math.random()*16777215).toString(16);```
