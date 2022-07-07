@@ -1,7 +1,7 @@
 # script_cheat_sheets
 
 
-npm init -y
+```npm init -y```
 
 
 npm i express 
