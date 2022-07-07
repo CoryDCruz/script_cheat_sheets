@@ -20,7 +20,7 @@
 postgres database 
 
 
-
+## Docker
 
 ```docker-compose up -d postgres```
 
