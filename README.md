@@ -1,9 +1,9 @@
 # script_cheat_sheets
 
-
+## initialize node
 ```npm init -y```
 
-
+## install express
 ```npm i express```
 
 ## install nodemon
